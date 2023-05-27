@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842315376521",
+    "project_id": "flutter-push-25ebc",
+    "storage_bucket": "flutter-push-25ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842315376521:android:ffe0563ced79f26d336358",
+        "android_client_info": {
+          "package_name": "com.miguelpoot.pushappudemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842315376521-qmfmtthdjtu4df37rc47s9uum8amrb4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.miguelpoot.pushappudemy",
+            "certificate_hash": "6e39d525bab060de512093ca7fa5d66ff1624cf8"
+          }
+        },
+        {
+          "client_id": "842315376521-02uo74uj133q4504pr24p88hgvpj3ar4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCIqU1nzDP6ES1htp49jh-q2g6A7M3a4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842315376521-02uo74uj133q4504pr24p88hgvpj3ar4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
